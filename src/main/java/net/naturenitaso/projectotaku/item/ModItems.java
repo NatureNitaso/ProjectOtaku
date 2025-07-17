@@ -23,4 +23,7 @@ public class ModItems {
         ITEMS.register(eventBus);
 
     }
+
+    public static void register(String name, Object o) {
+    }
 }

@@ -1,4 +1,7 @@
 {
   "item.projectotaku.alexandrite": "Alexandrite Gem",
-  "item.projectotaku.raw_alexandrite": "Raw Alexandrite"
+  "item.projectotaku.raw_alexandrite": "Raw Alexandrite",
+
+  "block.projectotaku.alexandrite_block": "Block of Alexandrite Gem",
+  "block.projectotaku.raw_alexandrite_block": "Block of Raw Alexandrite"
 }
